@@ -1,0 +1,40 @@
+ul {
+    list-style: none;
+    padding-left: 0;
+}
+a {
+    text-decoration: none;
+    color: #eee;
+}
+.rounded-btn {
+    border-radius: 50px;
+    background-color: rgb(55,177,105);
+    color: white !important;
+    border: none;
+}
+.features-card {
+    background-color: #f8fffb;
+    border: none;
+}
+.box-shadow {
+    box-shadow: 0px 5px 10px 0px #999;
+}
+header nav {
+    background-color: #f0fff0;
+}
+.features-icon {
+    height: 50px;
+    width: 50px;
+}
+footer {
+    background-color: #333;
+    color: #eee;
+}
+.card:hover {
+    background-color: #333;
+    color: white;
+}
+.online-course-icon {
+    width: 20px;
+    height: 20px;
+}
